@@ -1,0 +1,65 @@
+*{
+    margin: 10px;
+    padding: 0px;
+}
+ .navbar-heading h1{
+    font-size: 50px;
+}
+.container1{
+    background-color: rgb(99, 148, 148);
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+.navbar-option{
+    width: 50%;
+   
+  
+  
+   
+}
+.navbar-option ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.container2{
+    background-color: brown;
+    background-image: url("heropage.jpg");
+    height: 800px;
+}
+
+.container3{
+    background-color: blueviolet;
+}
+.container4{
+    background-color: rgb(81, 106, 75);
+}
+.planet-list{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    border:2px solid black ;
+}
+.Mercury{
+    background-image: url("mercury.jpeg");
+    background-size: cover;
+}
+.container5{
+    background-color: brown;
+}
+.footer{
+    height: 500px;
+
+}
